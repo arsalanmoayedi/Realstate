@@ -1,0 +1,11 @@
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.csproj.AssemblyReference.cache
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.Form1.resources
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.Properties.Resources.resources
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.csproj.GenerateResource.cache
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.csproj.CoreCompileInputs.cache
+D:\tr c#\MyRealState\MyRealState\bin\Debug\MyRealState.exe.config
+D:\tr c#\MyRealState\MyRealState\bin\Debug\MyRealState.exe
+D:\tr c#\MyRealState\MyRealState\bin\Debug\MyRealState.pdb
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.exe
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.pdb
+D:\tr c#\MyRealState\MyRealState\obj\Debug\MyRealState.FrmAddOrEdit.resources
